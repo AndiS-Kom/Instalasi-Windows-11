@@ -9,7 +9,7 @@ Sebelum melakukan instalasi, pastikan komputer memenuhi spesifikasi minimum:
 	•	Prosesor: 1 GHz atau lebih cepat, dengan 4 atau lebih core pada prosessor.
 	•	Bit: 64-bit / arsitektur x64
 	•	RAM: Minimal 4 GB dengan Tipe DD3 atau lebih tinggi.
-	•	Harddisk / SSD: Minimal memiliki 64 Gb ruang kosong setelah installasi.
+	•	Harddisk Conventional / SSD: Minimal memiliki 64 Gb ruang kosong setelah installasi.
 	•	Kartu Grafis (VGA): DirectX 12 atau lebih baru dengan driver WDDM 2.0., VRAM 128 Mb atau lebih besar.
 	•	Layar: Resolusi minimal 720p, ukuran layar 9 inci atau lebih besar.
 	•	Koneksi Internet: Dibutuhkan untuk aktivasi dan pembaruan Windows.
